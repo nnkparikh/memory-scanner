@@ -1,8 +1,3 @@
-/*
- * Student: Neel Parikh
- * Id: 1358644
- * Cmput 379 Assignment 1
- */
 
 #ifndef _MEMCHUNKH_
 #define _MEMCHUNKH_

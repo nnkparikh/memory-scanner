@@ -1,13 +1,6 @@
 #include "memchunk.h"
 #include <stdio.h>
 
-/*
- * Student: Neel Parikh
- * Id: 1358644
- * Cmput 379 Assignment 1
- */
-
-
 /* test get_mem_layout function */
 int main(){
     struct memchunk chunkList[20];
